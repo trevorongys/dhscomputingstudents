@@ -8,3 +8,4 @@ Add your class, name and github profile link below:
 - 20Y5C35 Eda Yeo https://github.com/killuen
 - 20Y5C35 Khng Chen Shuo https://github.com/Alvarrir
 - 20y5C35 Liew Zheng Yuan https://github.com/greypalms95
+- 20Y5C35 Trevor Ong https://github.com/trevorongys
